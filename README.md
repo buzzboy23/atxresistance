@@ -1,8 +1,9 @@
-DFW Resistance
+# atxresistance
+
+ATX Resistance
 ==============
 
-Website for the Dallas-Fort Worth Resistance.
+Website for the Austin Texas Resistance.
 
 
-Visit us at [http://dfwresistance.us](http://dfwresistance.us)
-# atxresistance
+Visit us at [http://atxresistance.com](http://atxresistance.com)
